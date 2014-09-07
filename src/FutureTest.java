@@ -42,6 +42,8 @@ public class FutureTest {
 		//NOTE: never forget to shutdown the executorservice, or the main thread will
 		//never exit. 
 		executor.shutdown();
+		
+		//just for test
 	}
 }
 
